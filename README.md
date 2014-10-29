@@ -14,4 +14,7 @@ new2 branch2
 =======
 new branch 3
 new branch 4
+<<<<<<< HEAD
 >>>>>>> new
+new rabse branch
+
